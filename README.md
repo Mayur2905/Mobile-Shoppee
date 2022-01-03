@@ -4,7 +4,6 @@ It is a simple website that sells mobile phones.</br>
 It is made by using **HTML, CSS, Bootstrap, PHP, and MYSQL, JQUERY** and Works on the **WAMP server**.</br>
 As a part of our University Curriculum, I made this project for Database Management Systems (DBMS).</br>
 This project contains theoretical as well as implementation in MySQL.</br>
-It is made by using **HTML, CSS, Bootstrap, PHP, and MYSQL, JQUERY and Works on the WAMP server**.
 
 # 1. Pre-requisite
 HTML</br> CSS</br>PHP</br> MYSQL
